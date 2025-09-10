@@ -27,4 +27,6 @@ It saves temporarily changes in present working directory
 Command 13 : "git cherry-pick <commit>"
 It applies a specific commit from another branch onto the current branch
 Command 14 : "git rebase -i HEAD~3"
-It allows to rewrite last 3 commits, which allow to edit, reorder etc..  
+It allows to rewrite last 3 commits, which allow to edit, reorder etc..
+Command 15 : "git bisect"
+It uses binary search to find the commit that had a bug, by marking commits good or bad   

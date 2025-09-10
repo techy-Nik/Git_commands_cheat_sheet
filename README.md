@@ -24,3 +24,5 @@ Command 11 : "git log --oneline --graph --all"
 It shows summarize visula representation of your commit history for all branches
 Command 12 : "git stash"
 It saves temporarily changes in present working directory
+Command 13 : "git cherry-pick <commit>"
+It applies a specific commit from another branch onto the current branch

@@ -26,3 +26,5 @@ Command 12 : "git stash"
 It saves temporarily changes in present working directory
 Command 13 : "git cherry-pick <commit>"
 It applies a specific commit from another branch onto the current branch
+Command 14 : "git rebase -i HEAD~3"
+It allows to rewrite last 3 commits, which allow to edit, reorder etc..  

@@ -22,3 +22,5 @@ Command 10 : "wget <url>"
 It downloads files from internet via command line
 Command 11 : "git log --oneline --graph --all"
 It shows summarize visula representation of your commit history for all branches
+Command 12 : "git stash"
+It saves temporarily changes in present working directory

@@ -18,3 +18,5 @@ Command 8 : "xargs"
 It builds and executes command from standard input
 Command 9 : "tar -czvf backup.tar.gz folder/"
 It compresses a folder into a .tar.gz archive
+Command 10 : "wget <url>"
+It downloads files from internet via command line

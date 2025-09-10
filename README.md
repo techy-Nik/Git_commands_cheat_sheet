@@ -8,4 +8,6 @@ Command 3 : "tree"
 It displays directory structure in a tree-like format
 Command 4 : "du -sh"
 It shows size of folders and file present in working directory
+Command 5 : "df -h"
+It shows available disk space of all mounted storage
   

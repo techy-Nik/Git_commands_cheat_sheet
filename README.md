@@ -31,4 +31,6 @@ It allows to rewrite last 3 commits, which allow to edit, reorder etc..
 Command 15 : "git bisect"
 It uses binary search to find the commit that had a bug, by marking commits good or bad
 Command 16 : "chmod 755 filename"
-It changes file or directory permissions, `755` gives the owner full access   
+It changes file or directory permissions, `755` gives the owner full access
+Command 17 : "git reflog"
+It shows logs of recent activity(commits, resets, checkouts)   

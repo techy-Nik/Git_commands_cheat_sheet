@@ -5,4 +5,7 @@ It is use to view current running process, memory usage and cpu utilization in r
 Command 2 : "ncdu"
 It is use to analyze disk usage
 Command 3 : "tree"
-It displays directory structure in a tree-like format  
+It displays directory structure in a tree-like format
+Command 4 : "du -sh"
+It shows size of folders and file present in working directory
+  

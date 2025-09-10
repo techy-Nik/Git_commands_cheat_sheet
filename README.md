@@ -12,3 +12,5 @@ Command 5 : "df -h"
 It shows available disk space of all mounted storage
 Command 6 : history | grep <command>
 It searches command history for a specific command or keyword
+Command 7 : find . -name "*.log"
+It recursively searches the current directory for files ending with .log

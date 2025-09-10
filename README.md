@@ -34,3 +34,7 @@ Command 16 : "chmod 755 filename"
 It changes file or directory permissions, `755` gives the owner full access
 Command 17 : "git reflog"
 It shows logs of recent activity(commits, resets, checkouts)   
+
+
+<img width="1458" height="589" alt="image" src="https://github.com/user-attachments/assets/19f295d1-36c5-4f01-a548-c5dd0e389f98" />
+

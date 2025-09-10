@@ -16,3 +16,5 @@ Command 7 : find . -name "*.log"
 It recursively searches the current directory for files ending with .log
 Command 8 : "xargs"
 It builds and executes command from standard input
+Command 9 : "tar -czvf backup.tar.gz folder/"
+It compresses a folder into a .tar.gz archive

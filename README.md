@@ -14,3 +14,5 @@ Command 6 : history | grep <command>
 It searches command history for a specific command or keyword
 Command 7 : find . -name "*.log"
 It recursively searches the current directory for files ending with .log
+Command 8 : "xargs"
+It builds and executes command from standard input
